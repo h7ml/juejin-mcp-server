@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/h7ml-juejin-mcp-server-badge.png)](https://mseep.ai/app/h7ml-juejin-mcp-server)
+
 # 掘金MCP服务器
 
 <div align="center">
